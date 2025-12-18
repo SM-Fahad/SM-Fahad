@@ -1,15 +1,5 @@
 # Hello, I'm Sheikh Mohammad Fahad
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=SM-Fahad.SM-Fahad)
-
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=SM-Fahad" alt="Profile Views" />
-</div>
-
-![Profile Views](https://komarev.com/ghpvc/?username=SM-Fahad&color=blueviolet&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/SM-Fahad?style=social)
-![GitHub stars](https://img.shields.io/github/stars/SM-Fahad?style=social)
-
 **Biochemist Turned Full-Stack Developer | Building Digital Solutions with Scientific Precision**
 
 Welcome to my GitHub! I'm a passionate developer with a unique background in Biochemistry and Molecular Biology, now channeling my analytical mindset into creating robust, user-focused web and mobile applications.
@@ -17,6 +7,18 @@ Welcome to my GitHub! I'm a passionate developer with a unique background in Bio
 ---
 
 *"From analyzing DNA sequences to debugging code sequences – I solve complex puzzles, whether they're biological or digital."*
+
+---
+
+## GitHub Stats
+
+![Fahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SM-Fahad&show_icons=true&theme=radical)
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=SM-Fahad&color=blueviolet&style=for-the-badge)
+  ![GitHub followers](https://img.shields.io/github/followers/SM-Fahad?style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/SM-Fahad?style=social)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SM-Fahad&layout=compact&theme=radical)
 
 ---
 
@@ -132,15 +134,6 @@ Interactive game built with vanilla JavaScript showcasing DOM manipulation and g
 3. **Research Mentality**: Every bug is a hypothesis to test, every feature is an experiment to optimize
 4. **Quality Focus**: From lab protocols to code standards, precision matters
 
----
-
-## GitHub Stats
-
-![Fahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SM-Fahad&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SM-Fahad&layout=compact&theme=radical)
-
----
 
 ## 📫 Let's Connect!
 
