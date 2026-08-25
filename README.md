@@ -1,17 +1,15 @@
+<div align="center">
+
 # Hello, I'm Sheikh Mohammad Fahad
+Flutter Developer · Cross-Platform Mobile Engineer
 
-**Biochemist Turned Full-Stack Developer | Building Digital Solutions with Scientific Precision**
+I build scalable, polished mobile applications for iOS & Android using Flutter, with a strong focus on clean architecture, responsive UI, API integration, and production-ready user experiences.
 
-Welcome to my GitHub! I'm a passionate developer with a unique background in Biochemistry and Molecular Biology, now channeling my analytical mindset into creating robust, user-focused web and mobile applications.
 
----
-
-*"From analyzing DNA sequences to debugging code sequences – I solve complex puzzles, whether they're biological or digital."*
-
----
+</div>
 
 ## GitHub Stats
-
+  
 ![Fahad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SM-Fahad&show_icons=true&theme=radical)
 
   ![Profile Views](https://komarev.com/ghpvc/?username=SM-Fahad&color=blueviolet&style=for-the-badge)
@@ -22,67 +20,64 @@ Welcome to my GitHub! I'm a passionate developer with a unique background in Bio
 
 ---
 
-## 🎯 About Me
+## About Me
 
-🔬 **M.Sc. in Biochemistry & Molecular Biology** → 💻 **Full-Stack Developer**
+I'm a Flutter Developer, focused on building production-grade cross-platform mobile applications.
 
-I've transitioned from studying life at a molecular level to building digital solutions that impact people's daily lives. My scientific training gives me a unique approach to problem-solving—meticulous, analytical, and evidence-based.
+My work involves transforming complex UI/UX designs into responsive interfaces, integrating REST APIs and Firebase services, implementing scalable state management, and preparing applications for deployment to the Google Play Store and Apple App Store.
 
-### What I Bring to Development:
-- **Scientific Rigor**: Research-based approach to debugging and optimization
-- **Analytical Mindset**: Breaking complex problems into manageable components
-- **Attention to Detail**: From biochemical assays to pixel-perfect UIs
-- **Continuous Learning**: Always experimenting, always improving
+Before moving into software development, I completed my academic studies in Biochemistry & Molecular Biology. That scientific background continues to influence how I approach engineering problems: analytically, methodically, and with attention to detail.
 
----
-
-## 🛠️ Technical Stack
-
-### **Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-### **Frontend**
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
-### **Backend**
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST_API-FF6C37?style=flat&logo=rest&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![OracleDB](https://img.shields.io/badge/-OracleDB-F80000?style=flat&logo=oracle&logoColor=white)
-
-### **Mobile Development**
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+- Building cross-platform applications with Flutter & Dart
+- Experienced with GetX & Provider
+- Working extensively with REST APIs & Firebase
+- Converting Figma designs into pixel-perfect Flutter interfaces
+- Experience shipping apps to App Store & Google Play
+- Interested in scalable mobile architecture and high-performance user experiences
 
 ---
 
-## 📚 Education & Certification
 
-| Degree/Certificate | Institution | Year | Performance |
-|-------------------|-------------|------|-------------|
-| **IsDB-BISEW Diploma** in WEB and Mobile App Development | IsDB-BISEW | 2025 | *Current* |
-| **M.Sc. in Biochemistry & Molecular Biology** | Tejgaon College, National University | 2024-2025 | CGPA: 3.68/4.00 |
-| **B.Sc. in Biochemistry & Molecular Biology** | Tejgaon College, National University | 2017-2023 | CGPA: 3.15/4.00 |
-| **Higher Secondary Certificate (HSC)** | National College, Dhaka | 2016 | GPA: 5.00/5.00 |
-| **Secondary School Certificate (SSC)** | Badda Alatunnessa High School | 2014 | GPA: 5.00/5.00 |
+## 🛠 Tech Stack
 
-**Key Technical Courses**: HTML, CSS, Bootstrap, JavaScript, OOP, ORM, DSA, MySQL, Oracle, Java, JDBC, UML, Angular, Dart, TypeScript, Android & Flutter Development
+<div align="center">
+  
+### Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### Frontend & Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-04544B?style=for-the-badge&logo=react&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Backend & Database
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
-
 # Featured Projects
 
 1. **🌤️ Whether – Weather App**
